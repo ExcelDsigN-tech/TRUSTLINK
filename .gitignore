@@ -29,3 +29,6 @@ npm-debug.log*
 
 # Coverage
 coverage/
+
+# Agent config (personal)
+.claude/
