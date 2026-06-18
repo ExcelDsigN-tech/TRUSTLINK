@@ -25,8 +25,6 @@ pub enum Error {
     DisputeAlreadyResolved = 10,
     DisputeAlreadyOpen = 11,
     InsufficientBalance = 12,
-    AlreadyClaimed = 13,
-    NoEarnings = 14,
 }
 
 // ── Storage Keys ────────────────────────────────────────────────────────────
